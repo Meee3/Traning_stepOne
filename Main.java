@@ -9,7 +9,7 @@ public class Main{
 	
 	public static void main(String[] args) throws ParseException {
 		Scanner sc = new Scanner(System.in);
-		//Mexeu com Data, nada melhor que o SDF - SimpleDateFormat
+		//Mexeu com Data, nada melhor que o SDF - SimpleDateFormat, lembrando que temos o Calendar...
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 		
 		System.out.println("Hi");
