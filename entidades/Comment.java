@@ -1,13 +1,14 @@
 package entidades;
 
 public class Comment {
+	
 	private String comentarios;
 	
-	Comment(){
+	public Comment(){
 		
 	}
 	
-	Comment(String text){
+	public Comment(String text){
 		this.comentarios = text;
 	}
 
