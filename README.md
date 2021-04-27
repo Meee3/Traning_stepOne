@@ -10,4 +10,4 @@ Llink da documentacao: https://docs.oracle.com/javase/7/docs/api/java/lang/Strin
 Treinando o uso da String Builder, no exemplo usado foi apenas o 
 Sb(StringBuilder).append("inserir dado");
 
-E instânciação entre objetos.
+E instânciação de objetos.
