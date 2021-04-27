@@ -2,7 +2,7 @@
 
 ------------
 
-Brincando Com Objetos
+Brincando Com Objetos - Composição (Uso StringBuilder)
 
 ------------
 Llink da documentacao: https://docs.oracle.com/javase/7/docs/api/java/lang/StringBuilder.html
